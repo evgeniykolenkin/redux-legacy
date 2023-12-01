@@ -11836,7 +11836,7 @@ function I0(e) {
       ? G.jsx("div", {
           children: G.jsx("img", {
             style: { width: 100 },
-            src: "src\\assests\\preloader.gif",
+            src: "src/assests/preloader.gif",
           }),
         })
       : t
