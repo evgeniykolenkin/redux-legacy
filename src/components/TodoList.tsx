@@ -19,7 +19,7 @@ function TodoList(props: Props) {
   if (isLoading) {
     return (
       <div>
-        <img style={{ width: 100 }} src="src/assests/preloader.gif" />
+        <img style={{ width: 100 }} src="src\assets\preloader.gif" />
       </div>
     );
   }
